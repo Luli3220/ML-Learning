@@ -5,7 +5,7 @@
 
 - KNN
 
-- Liner Regression
+- Linear Regression
 
 - Logistic Regression
 
