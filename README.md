@@ -1,4 +1,4 @@
-Image classification tasks (CNN)# ML-Learning
+## ML-Learning
 
 机器学习-张伟楠 
 个人学习及思考
@@ -19,3 +19,7 @@ Image classification tasks (CNN)# ML-Learning
   
   - Image classification tasks (CNN)
   - Color Transfer Based on VGG Network
+
+- Recurrent Neural Network
+  
+  - Gated recurrent unit(GRU)
