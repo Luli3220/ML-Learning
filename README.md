@@ -24,3 +24,7 @@
 - Recurrent Neural Network
   
   - Gated Recurrent Unit(GRU)
+
+- Support Vector Machine
+ 
+  - SMO solves for SVM
