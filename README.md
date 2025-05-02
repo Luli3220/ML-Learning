@@ -41,3 +41,7 @@
    
   - C4.5
 
+- Ensemble learning and gradient boosting decision trees
+
+  - Bagging and Random forest
+
