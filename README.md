@@ -1,11 +1,12 @@
 ## ML-Learning
-
 机器学习-张伟楠 
 个人学习及思考
 
 - Common conceptual differences
   
   - Parametric vs Non-Parametric Models
+  
+  - Supervised Learning vs Unsupervised Learning vs Semi-supervised Learning
 
 - KNN
 
