@@ -44,6 +44,14 @@
 - Ensemble Learning and Gradient Boosting Decision Trees
 
   - Bagging and Random forest
-  
-  - Ensemble Learning
+    
+  - Stacking
+
+  - AdaBoost
+
+  - XGBOOST 
+
+- K-means Clustering
+
+  - K-means 
 
