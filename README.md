@@ -16,9 +16,9 @@
 
 - Bilinear model 
   
-  - MF (Matrix Factorization)
+  - Matrix Factorization (MF)
   
-  - FM (Factorization Machines)
+  - Factorization Machines (FM)
 
 - Neural Networks and Multilayer Perceptrons 
   
@@ -55,4 +55,8 @@
 - K-means Clustering
 
   - K-means 
+
+- Principal Component Analysis
+  
+   - PCA-Feature decomposition
 
