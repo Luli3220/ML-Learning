@@ -58,5 +58,9 @@
 
 - Principal Component Analysis
   
-   - PCA-Feature decomposition
+  - PCA-Feature decomposition
+
+- Probability Graph Models
+  
+  - Bayesian network
 
