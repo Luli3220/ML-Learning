@@ -63,4 +63,6 @@
 - Probability Graph Models
   
   - Bayesian network
+  
+  - Markov network 
 
