@@ -66,3 +66,7 @@
   
   - Markov network 
 
+- Expectation-Maximization
+  
+  - EM for sinx
+
