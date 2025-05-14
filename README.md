@@ -9,6 +9,12 @@
   - Supervised Learning vs Unsupervised Learning vs Semi-supervised Learning
 
 - KNN
+  
+  - The KNN algorithm completes the image classification problem of the MNIST dataset
+
+  - Classification Effect of KNN on Gaussian Dataset (sklearn)
+
+  - Use KNN to complete the regression mission - color style transfer
 
 - Linear Regression
 
