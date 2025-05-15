@@ -17,6 +17,12 @@
   - Use KNN to complete the regression mission - color style transfer
 
 - Linear Regression
+  
+  - Linear regression (analytic solution) predicts house prices
+
+  - Linear regression (gradient descent) predicts house prices(SGD VS GD)
+
+  - Effect of learning rate on gradient decline
 
 - Logistic Regression
 
