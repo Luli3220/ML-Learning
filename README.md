@@ -25,6 +25,8 @@
   - Effect of learning rate on gradient decline
 
 - Logistic Regression
+   
+   - Logistity's prediction and its model evaluation（AUC）
 
 - Bilinear model 
   
