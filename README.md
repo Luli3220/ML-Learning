@@ -30,9 +30,9 @@
 
 - Bilinear model 
   
-  - Matrix Factorization (MF)
+  - Recommendations by Movie Ratings (Matrix Factorization（MF）)
   
-  - Factorization Machines (FM)
+  - Click prediction based on Factorization Machines (FM)
 
 - Neural Networks and Multilayer Perceptrons 
   
