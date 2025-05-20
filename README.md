@@ -36,6 +36,12 @@
 
 - Neural Networks and Multilayer Perceptrons 
   
+  - Point classification problem based on multilayer perceptron
+
+  - Point classification problem based on multilayer perceptron(Pytorch)
+  
+- Convolutional neural networks
+  
   - Image classification tasks (CNN)
 
   - Color Transfer Based on VGG Network
