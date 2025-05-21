@@ -38,13 +38,13 @@
   
   - Point classification problem based on multilayer perceptron
 
-  - Point classification problem based on multilayer perceptron(Pytorch)
+  - Point classification problem based on multilayer perceptron (pytorch)
   
 - Convolutional neural networks
   
-  - Image classification tasks (CNN)
+  - Image Classification Based on Convolutional Neural Network (CIFAR10 Dataset) (Alexnet Structure) (pytorch)
 
-  - Color Transfer Based on VGG Network
+  - Color style transfer based on pre-trained Convolutional Neural Networks(VGG)(pytorch)
 
 - Recurrent Neural Network
   
