@@ -48,7 +48,7 @@
 
 - Recurrent Neural Network
   
-  - Gated Recurrent Unit(GRU)
+  - Sine function prediction based on Recurrent Neural Networks（GRU） (pytorch)
 
 - Support Vector Machine
  
