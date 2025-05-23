@@ -44,19 +44,19 @@
   
   - Image Classification Based on Convolutional Neural Network (CIFAR10 Dataset) (Alexnet Structure) (pytorch)
 
-  - Color style transfer based on pre-trained Convolutional Neural Networks(VGG)(pytorch)
+  - Color style transfer based on pre-trained Convolutional Neural Networks(VGG) (pytorch)
 
 - Recurrent Neural Network
   
-  - Sine function prediction based on Recurrent Neural Networks（GRU） (pytorch)
+  - Sine function prediction based on Recurrent Neural Networks（GRU）(pytorch)
 
 - Support Vector Machine
  
-  - SMO solves for SVM
-    
-    - Linear
-
-    - Non-Linear 
+  - Simple linear data partitioning based on Support Vector Machines (SMO)
+  
+  - Nonlinear data partitioning based on Support Vector Machines (SMO)
+  
+  - Nonlinear data partitioning based on Support Vector Machines (SMO) (Sklearn)
 
 - Decision Tree
    
