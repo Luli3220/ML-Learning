@@ -56,11 +56,13 @@
   
   - Nonlinear data partitioning based on Support Vector Machines (SMO)
   
-  - Nonlinear data partitioning based on Support Vector Machines (SMO) (Sklearn)
+  - Nonlinear data partitioning based on Support Vector Machines (SMO) (sklearn)
 
 - Decision Tree
    
-  - C4.5
+  - Survival classification of the Titanic based on decision trees（C4.5）
+
+  - Survival Classification of Titanic Based on Decision Tree and Visualization of the Decision Tree(sklearn) (C4.5) (CART)
 
 - Ensemble Learning and Gradient Boosting Decision Trees
 
