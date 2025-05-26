@@ -66,9 +66,9 @@
 
 - Ensemble Learning and Gradient Boosting Decision Trees
 
-  - Bagging and Random forest
+  - Comparison of the classification effect of Bagging and Random Forest
     
-  - Stacking
+  - Classification based on Stacking 
 
   - AdaBoost
 
