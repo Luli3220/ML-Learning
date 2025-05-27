@@ -65,14 +65,14 @@
   - Survival Classification of Titanic Based on Decision Tree and Visualization of the Decision Tree(sklearn) (C4.5) (CART)
 
 - Ensemble Learning and Gradient Boosting Decision Trees
-
-  - Comparison of the classification effect of Bagging and Random Forest
+     
+ - Comparison of the classification effect of Bagging and Random Forest
     
-  - Classification based on Stacking 
-
-  - AdaBoost
-
-  - XGBOOST 
+ - Classification based on Stacking 
+  
+ - Compare the performance of different ensemble methods on Classification Prediction (AdaBoost,Bagging, AdaBoost, Random Forest) (stump).
+ 
+ - Compare the performance of XGBoost with other models on Regression Prediction (XGBoost,KNN,Liner regression,Bagging,Random Forest,Stacking)
 
 - K-means Clustering
 
