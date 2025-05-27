@@ -76,7 +76,9 @@
 
 - K-means Clustering
 
-  - K-means 
+  - Point clustering based on K-means
+
+  - 
 
 - Principal Component Analysis
   
