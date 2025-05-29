@@ -82,13 +82,13 @@
 
 - Principal Component Analysis
   
-  - Point component dimensionality reduction based on principal component analysis(Feature decomposition)
+  - Point component dimensionality reduction based on principal component analysis (Feature decomposition)
 
 - Probability Graph Models
   
-  - Bayesian network
+  - Text classification based on naive Bayes Model
   
-  - Markov network 
+  - Image denoising based on Markov Network
 
 - Expectation-Maximization
   
