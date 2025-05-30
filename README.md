@@ -20,7 +20,7 @@
   
   - Linear regression (analytic solution) predicts house prices
 
-  - Linear regression (gradient descent) predicts house prices(SGD VS GD)
+  - Linear regression (gradient descent) predicts house prices (SGD VS GD)
 
   - Effect of learning rate on gradient decline
 
@@ -62,7 +62,7 @@
    
   - Survival classification of the Titanic based on decision trees（C4.5）
 
-  - Survival Classification of Titanic Based on Decision Tree and Visualization of the Decision Tree(sklearn) (C4.5) (CART)
+  - Survival Classification of Titanic Based on Decision Tree and Visualization of the Decision Tree (sklearn) (C4.5) (CART)
 
 - Ensemble Learning and Gradient Boosting Decision Trees
      
@@ -70,7 +70,7 @@
     
   - Classification based on Stacking 
   
-  - Compare the performance of different ensemble methods on Classification Prediction (AdaBoost,Bagging, AdaBoost, Random Forest) (stump).
+  - Compare the performance of different ensemble methods on Classification Prediction (AdaBoost,Bagging, AdaBoost, Random Forest) (stump)
  
   - Compare the performance of XGBoost with other models on Regression Prediction (XGBoost,KNN,Liner regression,Bagging,Random Forest,Stacking)
 
@@ -92,7 +92,7 @@
 
 - Expectation-Maximization
   
-  - EM for sinx
+  - Sine function fitting based on Gaussian Mixture model (EM)
 
 - Autoencoder（AE）
 
