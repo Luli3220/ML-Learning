@@ -95,6 +95,8 @@
   - Sine function fitting based on Gaussian Mixture model (EM)
 
 - Autoencoder（AE）
+  
+  - Feature Extraction of Handwritten Fonts Based on Autoencoder (MNIST)
 
 
 
